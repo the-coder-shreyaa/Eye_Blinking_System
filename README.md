@@ -11,3 +11,7 @@ Real-time webcam-based detection
 Accurate eye blink identification
 Lightweight and easy to run
 Can be extended for drowsiness detection
+## 🎥 Demo Video
+
+👉 Click to watch the demo video:  
+[Eye Blink Detection System – Demo](VID_20260201_165347.mp4)
